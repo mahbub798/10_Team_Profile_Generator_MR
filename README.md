@@ -20,11 +20,11 @@
     
   ## Installation
   
-  The following necessary dependencies must be installed to run the application properly: install npm
+  The following necessary dependencies must be installed to run the application properly: Run "npm i" or "npm install"
   
   ## Usage 
   
-  This application is used for generate Team profile.
+  This application is used for generate Team profile. Run "node app.js" to prompt questions.
   
   ## License
   
